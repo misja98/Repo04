@@ -1,5 +1,4 @@
 function main(numOne, numTwo) {
-
    
     //Only change code below this line
 var numOne;
